@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thevishessh
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me 
+- 🌱 I’m currently learning Full Stack web devlopment
+- 📫 How to reach me-@srivastavavishesh15@gmail.com 
 
 <!---
 thevishessh/thevishessh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
